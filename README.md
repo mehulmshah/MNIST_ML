@@ -6,14 +6,10 @@ I'll be uploading my personal implementation as I write them.
 To try these out, you'll have to download the MNIST data, and install some python modules. I'll keep an updated list here of which modules I'm using.
 
 Module List:
-
-numpy
-
-pandas
-
-scipy
-
-os
+1. numpy
+2. pandas
+3. sklearn
+4. os
 
 I'm using a CSV formatted version of MNIST, as the original is a pain to parse into python. It can be downloaded here:
 http://pjreddie.com/projects/mnist-in-csv/
